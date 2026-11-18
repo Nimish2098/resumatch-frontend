@@ -96,7 +96,7 @@ export default function Dashboard({ token, userName }: DashboardPageProps) {
         </div>
       ) : !stats ? (
         <section className="db-tile is-dark db-hero db-empty">
-          <p className="db-label">WELCOME TO RESUMATCH</p>
+          <p className="db-label">HERE STARTS YOUR POST-MORTEM</p>
           <h1>Your first review starts here.</h1>
           <p className="db-hero-copy">Upload a PDF or DOCX resume to get practical feedback on ATS readability, structure, and impact.</p>
           <div className="db-actions">

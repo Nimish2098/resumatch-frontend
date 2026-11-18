@@ -149,7 +149,7 @@ export default function HomePage() {
       <header className="topbar">
         <div className="brand-mark">
           <div className="brand-dot" />
-          <span>RESUMATCH</span>
+          <span>POST-MORTEM OF CAREER</span>
         </div>
 
         <nav className="topnav" aria-label="Main navigation">
